@@ -3,12 +3,12 @@
  "thua": 0,
  "keo_da_bao": 0,
  "da_bao_dung": false,
- "fake_hom_nay": 0,
+ "fake_hom_nay": 1,
  "da_bao": {
-  "ETHUSDT_nen": 1793466000000,
-  "BTCUSDT_nen": 1793466000000,
+  "ETHUSDT_nen": 1793466900000,
+  "BTCUSDT_nen": 1793466900000,
   "ETHUSDT_fake": 1793447100000,
-  "BTCUSDT_fake": 1793447100000
+  "BTCUSDT_fake": 1793466900000
  },
  "da_chao": true,
  "lich_tin": [
