@@ -1,0 +1,37 @@
+name: Bao keo Telegram
+
+on:
+  schedule:
+    - cron: "1,16,31,46 * * * *"   # 15 phut/lan, ngay sau khi nen M15 dong
+  workflow_dispatch:               # cho phep bam chay tay de thu
+
+permissions:
+  contents: write
+
+concurrency:
+  group: bao-keo
+  cancel-in-progress: false
+
+jobs:
+  chay:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Chay bot
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python bot.py
+      - name: Luu trang thai
+        if: always()   # bot loi giua chung van luu, tranh xu ly lap lenh Telegram
+        run: |
+          git config user.name "keo-bot"
+          git config user.email "keo-bot@users.noreply.github.com"
+          git add trang_thai.json lich_su.csv
+          git diff --cached --quiet && exit 0
+          git commit -m "cap nhat trang thai"
+          for i in 1 2 3; do git pull --rebase -q && git push -q && break; sleep 5; done
