@@ -1,0 +1,84 @@
+{
+  "coins": [
+    "ETHUSDT",
+    "BTCUSDT"
+  ],
+  "sl_co_dinh": {
+    "ETHUSDT": 25,
+    "BTCUSDT": 600
+  },
+  "rui_ro_usdt": 2.5,
+  "rr": 2,
+  "toi_da_keo_moi_ngay": 3,
+  "thua_toi_da_ngay": 2,
+  "khong_bao_lai_trong_gio": 2,
+  "bao_canh_bao_fake": true,
+  "tranh_tin_lon_gio": 2,
+  "tin_lon_gio_vn": [],
+  "loc_theo_btc": true,
+  "buoc_khoi_luong": {
+    "ETHUSDT": 0.01,
+    "BTCUSDT": 0.0001
+  },
+  "phi_moi_chieu_phan_tram": 0.05,
+  "nhac_tin_truoc_gio": [
+    24,
+    1
+  ],
+  "het_han_keo_gio": 48,
+  "bao_cao_tuan": true,
+  "khung_gio_fake": [
+    {
+      "ten": "Sáng: mở nến ngày + funding (kinh nghiệm của bạn)",
+      "tu": "07:00",
+      "den": "08:30",
+      "gio": "VN",
+      "che_do": "chan"
+    },
+    {
+      "ten": "Tối: tin Mỹ + mở cửa chứng khoán Mỹ (kinh nghiệm của bạn)",
+      "tu": "08:30",
+      "den": "10:00",
+      "gio": "NY",
+      "che_do": "chan"
+    },
+    {
+      "ten": "Mở phiên Âu (hay phá vỡ giả)",
+      "tu": "08:00",
+      "den": "09:30",
+      "gio": "LON",
+      "che_do": "canh_bao"
+    },
+    {
+      "ten": "Funding 15h/23h VN (hay giật râu)",
+      "tu": "14:50",
+      "den": "15:15",
+      "gio": "VN",
+      "che_do": "canh_bao"
+    },
+    {
+      "ten": "Funding 15h/23h VN (hay giật râu)",
+      "tu": "22:50",
+      "den": "23:15",
+      "gio": "VN",
+      "che_do": "canh_bao"
+    },
+    {
+      "ten": "Cuối tuần (thanh khoản mỏng)",
+      "tu": "00:00",
+      "den": "23:59",
+      "gio": "VN",
+      "thu": [
+        5,
+        6
+      ],
+      "che_do": "canh_bao"
+    }
+  ],
+  "khong_bao_fake_lai_gio": 4,
+  "toi_da_canh_bao_fake_ngay": 3,
+  "loc_eth_btc": "chan",
+  "canh_bao_dom": true,
+  "khong_bao_dom_lai_gio": 12,
+  "sl_theo_atr": 0
+}
