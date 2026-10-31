@@ -1,0 +1,44 @@
+{
+ "ngay": "2026-10-31",
+ "thua": 0,
+ "keo_da_bao": 0,
+ "da_bao_dung": false,
+ "fake_hom_nay": 0,
+ "da_bao": {
+  "ETHUSDT_nen": 1793433600000,
+  "BTCUSDT_nen": 1793433600000
+ },
+ "da_chao": true,
+ "lich_tin": [
+  [
+   "2026-10-29 01:00",
+   "Federal Funds Rate"
+  ],
+  [
+   "2026-10-29 01:00",
+   "FOMC Statement"
+  ],
+  [
+   "2026-10-29 01:30",
+   "FOMC Press Conference"
+  ],
+  [
+   "2026-10-29 19:30",
+   "Advance GDP q/q"
+  ],
+  [
+   "2026-10-29 19:30",
+   "Core PCE Price Index m/m"
+  ]
+ ],
+ "lich_tin_luc": "2026-10-31T15:17:15.396339+07:00",
+ "da_nhac": {},
+ "dom": [
+  [
+   "2026-10-31T15:17:17.241015+07:00",
+   59.199
+  ]
+ ],
+ "dom_bao_sap": 1793434637.349358,
+ "keo_mo": []
+}
