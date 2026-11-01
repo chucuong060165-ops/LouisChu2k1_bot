@@ -13,27 +13,23 @@
  "da_chao": true,
  "lich_tin": [
   [
-   "2026-10-29 01:00",
-   "Federal Funds Rate"
+   "2026-11-03 22:16",
+   "Congressional Elections"
   ],
   [
-   "2026-10-29 01:00",
-   "FOMC Statement"
+   "2026-11-06 20:30",
+   "Average Hourly Earnings m/m"
   ],
   [
-   "2026-10-29 01:30",
-   "FOMC Press Conference"
+   "2026-11-06 20:30",
+   "Non-Farm Employment Change"
   ],
   [
-   "2026-10-29 19:30",
-   "Advance GDP q/q"
-  ],
-  [
-   "2026-10-29 19:30",
-   "Core PCE Price Index m/m"
+   "2026-11-06 20:30",
+   "Unemployment Rate"
   ]
  ],
- "lich_tin_luc": "2026-11-01T09:20:31.081001+07:00",
+ "lich_tin_luc": "2026-11-01T15:22:14.954781+07:00",
  "da_nhac": {},
  "dom": [
   [
