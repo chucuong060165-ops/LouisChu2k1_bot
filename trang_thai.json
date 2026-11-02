@@ -5,8 +5,8 @@
  "da_bao_dung": false,
  "fake_hom_nay": 3,
  "da_bao": {
-  "ETHUSDT_nen": 1793579400000,
-  "BTCUSDT_nen": 1793579400000,
+  "ETHUSDT_nen": 1793580300000,
+  "BTCUSDT_nen": 1793580300000,
   "ETHUSDT_fake": 1793571300000,
   "BTCUSDT_fake": 1793551500000
  },
@@ -212,5 +212,6 @@
  "dom_bao_sap": 1793559669.613983,
  "keo_mo": [],
  "offset": 21296836,
- "hoc_tuan": "2026-11-01"
+ "hoc_tuan": "2026-11-01",
+ "dom_bao_hut": 1793581268.677128
 }
