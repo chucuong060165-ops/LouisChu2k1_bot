@@ -3,11 +3,11 @@
  "thua": 0,
  "keo_da_bao": 0,
  "da_bao_dung": false,
- "fake_hom_nay": 2,
+ "fake_hom_nay": 3,
  "da_bao": {
-  "ETHUSDT_nen": 1793738700000,
-  "BTCUSDT_nen": 1793738700000,
-  "ETHUSDT_fake": 1793724300000,
+  "ETHUSDT_nen": 1793739600000,
+  "BTCUSDT_nen": 1793739600000,
+  "ETHUSDT_fake": 1793739600000,
   "BTCUSDT_fake": 1793728800000,
   "BTCUSDT_SHORT": 1793685600000
  },
@@ -399,6 +399,10 @@
   [
    "2026-11-04T03:20:43.235893+07:00",
    59.34
+  ],
+  [
+   "2026-11-04T04:16:21.498621+07:00",
+   59.332
   ]
  ],
  "dom_bao_sap": 1793559669.613983,
