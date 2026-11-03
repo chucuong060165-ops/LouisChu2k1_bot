@@ -1,14 +1,15 @@
 {
  "ngay": "2026-11-03",
  "thua": 0,
- "keo_da_bao": 0,
+ "keo_da_bao": 1,
  "da_bao_dung": false,
  "fake_hom_nay": 3,
  "da_bao": {
-  "ETHUSDT_nen": 1793684700000,
-  "BTCUSDT_nen": 1793684700000,
+  "ETHUSDT_nen": 1793685600000,
+  "BTCUSDT_nen": 1793685600000,
   "ETHUSDT_fake": 1793658600000,
-  "BTCUSDT_fake": 1793640600000
+  "BTCUSDT_fake": 1793640600000,
+  "BTCUSDT_SHORT": 1793685600000
  },
  "da_chao": true,
  "lich_tin": [
@@ -336,8 +337,35 @@
   ]
  ],
  "dom_bao_sap": 1793559669.613983,
- "keo_mo": [],
+ "keo_mo": [
+  {
+   "huong": "SHORT",
+   "gia_vao": 76447.41,
+   "kl": 0.0041,
+   "sl": 77047.41,
+   "sl_goc": 77047.41,
+   "tp1": 75847.41,
+   "tp2": 75247.41,
+   "da_tp1": false,
+   "con_lai": 1.0,
+   "lai_lo": 0.0,
+   "phi": 0.15671719050000002,
+   "dien_bien": [],
+   "coin": "BTCUSDT",
+   "vao_luc": "2026-11-03 13:15",
+   "khung_gio": "",
+   "bias_d1": "GIẢM",
+   "so_xac_nhan": 2,
+   "ethbtc": "",
+   "canh_bao": "Quét thanh khoản trên kháng cự 76540.77 rồi đóng lại dưới: BẪY PHÁ VỠ LÊN (bull trap) | Thủng 76540.77 nhưng volume chỉ 1.4×TB: phá vỡ yếu, dễ fake — chờ retest",
+   "id": 1,
+   "t_vao": 1793686500000,
+   "t_kiem_tra": 1793686500000,
+   "da_vao": ""
+  }
+ ],
  "offset": 21296836,
  "hoc_tuan": "2026-11-01",
- "dom_bao_hut": 1793581268.677128
+ "dom_bao_hut": 1793581268.677128,
+ "id_tiep": 1
 }
