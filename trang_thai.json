@@ -5,8 +5,8 @@
  "da_bao_dung": false,
  "fake_hom_nay": 3,
  "da_bao": {
-  "ETHUSDT_nen": 1793774700000,
-  "BTCUSDT_nen": 1793774700000,
+  "ETHUSDT_nen": 1793775600000,
+  "BTCUSDT_nen": 1793775600000,
   "ETHUSDT_fake": 1793739600000,
   "BTCUSDT_fake": 1793728800000,
   "BTCUSDT_SHORT": 1793685600000,
@@ -470,7 +470,7 @@
    "canh_bao": "Râu trên dài: bên bán từ chối giá, đừng long đuổi | Quét thanh khoản trên kháng cự 2293.44 rồi đóng lại dưới: BẪY PHÁ VỠ LÊN (bull trap) | ETH/BTC H4 đang tăng — ETH đang khỏe hơn BTC, SHORT ETH dễ bị kéo ngược",
    "id": 2,
    "t_vao": 1793772000000,
-   "t_kiem_tra": 1793775600000,
+   "t_kiem_tra": 1793776500000,
    "da_vao": ""
   }
  ],
