@@ -1,12 +1,12 @@
 {
- "ngay": "2026-11-06",
+ "ngay": "2026-11-07",
  "thua": 0,
- "keo_da_bao": 1,
+ "keo_da_bao": 0,
  "da_bao_dung": false,
- "fake_hom_nay": 3,
+ "fake_hom_nay": 0,
  "da_bao": {
-  "ETHUSDT_nen": 1793982600000,
-  "BTCUSDT_nen": 1793982600000,
+  "ETHUSDT_nen": 1793983500000,
+  "BTCUSDT_nen": 1793983500000,
   "ETHUSDT_fake": 1793913300000,
   "BTCUSDT_fake": 1793918700000,
   "BTCUSDT_SHORT": 1793919600000,
