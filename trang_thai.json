@@ -16,23 +16,23 @@
  "da_chao": true,
  "lich_tin": [
   [
-   "2026-11-03 22:16",
-   "Congressional Elections"
+   "2026-11-10 20:30",
+   "Core CPI m/m"
   ],
   [
-   "2026-11-06 20:30",
-   "Average Hourly Earnings m/m"
+   "2026-11-10 20:30",
+   "CPI m/m"
   ],
   [
-   "2026-11-06 20:30",
-   "Non-Farm Employment Change"
+   "2026-11-13 20:30",
+   "Core PPI m/m"
   ],
   [
-   "2026-11-06 20:30",
-   "Unemployment Rate"
+   "2026-11-13 20:30",
+   "PPI m/m"
   ]
  ],
- "lich_tin_luc": "2026-11-08T09:58:14.234527+07:00",
+ "lich_tin_luc": "2026-11-08T15:58:14.725350+07:00",
  "da_nhac": {
   "24|2026-11-03 22:16|Congressional Elections": "2026-11-02T22:16:27.630293+07:00",
   "1|2026-11-03 22:16|Congressional Elections": "2026-11-03T21:16:15.602261+07:00",
