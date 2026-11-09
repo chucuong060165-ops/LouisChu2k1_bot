@@ -5,8 +5,8 @@
  "da_bao_dung": false,
  "fake_hom_nay": 2,
  "da_bao": {
-  "ETHUSDT_nen": 1794260700000,
-  "BTCUSDT_nen": 1794260700000,
+  "ETHUSDT_nen": 1794261600000,
+  "BTCUSDT_nen": 1794261600000,
   "ETHUSDT_fake": 1794171600000,
   "BTCUSDT_fake": 1794257100000,
   "BTCUSDT_SHORT": 1794245400000,
@@ -871,7 +871,7 @@
    "canh_bao": "Phân kỳ giảm RSI H1: đỉnh giá cao hơn nhưng RSI yếu hơn — lực tăng đuối",
    "id": 8,
    "t_vao": 1794246300000,
-   "t_kiem_tra": 1794261600000,
+   "t_kiem_tra": 1794262500000,
    "da_vao": ""
   }
  ],
