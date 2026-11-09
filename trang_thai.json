@@ -1,15 +1,15 @@
 {
  "ngay": "2026-11-09",
  "thua": 0,
- "keo_da_bao": 0,
+ "keo_da_bao": 1,
  "da_bao_dung": false,
  "fake_hom_nay": 3,
  "da_bao": {
-  "ETHUSDT_nen": 1794186000000,
-  "BTCUSDT_nen": 1794186000000,
+  "ETHUSDT_nen": 1794186900000,
+  "BTCUSDT_nen": 1794186900000,
   "ETHUSDT_fake": 1794171600000,
   "BTCUSDT_fake": 1794156300000,
-  "BTCUSDT_SHORT": 1793919600000,
+  "BTCUSDT_SHORT": 1794186900000,
   "ETHUSDT_SHORT": 1793771100000,
   "ETHUSDT_LONG": 1793871000000
  },
@@ -44,10 +44,6 @@
   "1|2026-11-06 20:30|Unemployment Rate": "2026-11-06T19:30:56.026500+07:00"
  },
  "dom": [
-  [
-   "2026-11-01T13:44:16.912128+07:00",
-   59.307
-  ],
   [
    "2026-11-01T14:40:32.277963+07:00",
    59.294
@@ -843,12 +839,42 @@
   [
    "2026-11-09T07:34:16.037112+07:00",
    60.224
+  ],
+  [
+   "2026-11-09T08:31:00.492271+07:00",
+   60.246
   ]
  ],
  "dom_bao_sap": 1794182472.1901,
- "keo_mo": [],
+ "keo_mo": [
+  {
+   "huong": "SHORT",
+   "gia_vao": 74764.02,
+   "kl": 0.0041,
+   "sl": 75364.02,
+   "sl_goc": 75364.02,
+   "tp1": 74164.02,
+   "tp2": 73564.02,
+   "da_tp1": false,
+   "con_lai": 1.0,
+   "lai_lo": 0.0,
+   "phi": 0.153266241,
+   "dien_bien": [],
+   "coin": "BTCUSDT",
+   "vao_luc": "2026-11-09 08:30",
+   "khung_gio": "",
+   "bias_d1": "GIẢM",
+   "so_xac_nhan": 2,
+   "ethbtc": "",
+   "canh_bao": "Quét thanh khoản trên kháng cự 74888.00 rồi đóng lại dưới: BẪY PHÁ VỠ LÊN (bull trap) | Thủng 74888.00 nhưng volume chỉ 0.6×TB: phá vỡ yếu, dễ fake — chờ retest | Phân kỳ giảm RSI H1: đỉnh giá cao hơn nhưng RSI yếu hơn — lực tăng đuối",
+   "id": 5,
+   "t_vao": 1794187800000,
+   "t_kiem_tra": 1794187800000,
+   "da_vao": ""
+  }
+ ],
  "offset": 21296836,
  "hoc_tuan": "2026-11-08",
  "dom_bao_hut": 1793581268.677128,
- "id_tiep": 4
+ "id_tiep": 5
 }
