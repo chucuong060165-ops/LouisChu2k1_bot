@@ -1,15 +1,15 @@
 {
  "ngay": "2026-11-09",
  "thua": 0,
- "keo_da_bao": 2,
+ "keo_da_bao": 3,
  "da_bao_dung": false,
  "fake_hom_nay": 3,
  "da_bao": {
-  "ETHUSDT_nen": 1794228300000,
-  "BTCUSDT_nen": 1794228300000,
+  "ETHUSDT_nen": 1794229200000,
+  "BTCUSDT_nen": 1794229200000,
   "ETHUSDT_fake": 1794171600000,
   "BTCUSDT_fake": 1794156300000,
-  "BTCUSDT_SHORT": 1794195900000,
+  "BTCUSDT_SHORT": 1794229200000,
   "ETHUSDT_SHORT": 1793771100000,
   "ETHUSDT_LONG": 1793871000000
  },
@@ -846,9 +846,35 @@
   ]
  ],
  "dom_bao_sap": 1794225738.322415,
- "keo_mo": [],
+ "keo_mo": [
+  {
+   "huong": "SHORT",
+   "gia_vao": 74760.61,
+   "kl": 0.0041,
+   "sl": 75360.61,
+   "sl_goc": 75360.61,
+   "tp1": 74160.61,
+   "tp2": 73560.61,
+   "da_tp1": false,
+   "con_lai": 1.0,
+   "lai_lo": 0.0,
+   "phi": 0.1532592505,
+   "dien_bien": [],
+   "coin": "BTCUSDT",
+   "vao_luc": "2026-11-09 20:15",
+   "khung_gio": "",
+   "bias_d1": "GIẢM",
+   "so_xac_nhan": 2,
+   "ethbtc": "",
+   "canh_bao": "Quét thanh khoản trên kháng cự 74888.00 rồi đóng lại dưới: BẪY PHÁ VỠ LÊN (bull trap) | Thủng 74888.00 nhưng volume chỉ 0.5×TB: phá vỡ yếu, dễ fake — chờ retest | Phân kỳ giảm RSI H1: đỉnh giá cao hơn nhưng RSI yếu hơn — lực tăng đuối",
+   "id": 7,
+   "t_vao": 1794230100000,
+   "t_kiem_tra": 1794230100000,
+   "da_vao": ""
+  }
+ ],
  "offset": 21296836,
  "hoc_tuan": "2026-11-08",
  "dom_bao_hut": 1793581268.677128,
- "id_tiep": 6
+ "id_tiep": 7
 }
