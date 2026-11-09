@@ -5,8 +5,8 @@
  "da_bao_dung": false,
  "fake_hom_nay": 3,
  "da_bao": {
-  "ETHUSDT_nen": 1794213000000,
-  "BTCUSDT_nen": 1794213000000,
+  "ETHUSDT_nen": 1794213900000,
+  "BTCUSDT_nen": 1794213900000,
   "ETHUSDT_fake": 1794171600000,
   "BTCUSDT_fake": 1794156300000,
   "BTCUSDT_SHORT": 1794195900000,
@@ -32,7 +32,7 @@
    "PPI m/m"
   ]
  ],
- "lich_tin_luc": "2026-11-09T10:01:10.481517+07:00",
+ "lich_tin_luc": "2026-11-09T16:01:11.731744+07:00",
  "da_nhac": {
   "24|2026-11-03 22:16|Congressional Elections": "2026-11-02T22:16:27.630293+07:00",
   "1|2026-11-03 22:16|Congressional Elections": "2026-11-03T21:16:15.602261+07:00",
@@ -871,7 +871,7 @@
    "canh_bao": "Quét thanh khoản trên kháng cự 74888.00 rồi đóng lại dưới: BẪY PHÁ VỠ LÊN (bull trap) | Thủng 74888.00 nhưng volume chỉ 0.6×TB: phá vỡ yếu, dễ fake — chờ retest | Phân kỳ giảm RSI H1: đỉnh giá cao hơn nhưng RSI yếu hơn — lực tăng đuối",
    "id": 6,
    "t_vao": 1794196800000,
-   "t_kiem_tra": 1794213900000,
+   "t_kiem_tra": 1794214800000,
    "da_vao": "",
    "da_bao_tp1": true
   }
