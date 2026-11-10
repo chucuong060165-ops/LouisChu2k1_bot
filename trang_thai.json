@@ -1,16 +1,16 @@
 {
  "ngay": "2026-11-10",
  "thua": 0,
- "keo_da_bao": 1,
+ "keo_da_bao": 2,
  "da_bao_dung": false,
  "fake_hom_nay": 3,
  "da_bao": {
-  "ETHUSDT_nen": 1794280500000,
-  "BTCUSDT_nen": 1794280500000,
+  "ETHUSDT_nen": 1794281400000,
+  "BTCUSDT_nen": 1794281400000,
   "ETHUSDT_fake": 1794171600000,
   "BTCUSDT_fake": 1794272400000,
   "BTCUSDT_SHORT": 1794245400000,
-  "ETHUSDT_SHORT": 1793771100000,
+  "ETHUSDT_SHORT": 1794281400000,
   "ETHUSDT_LONG": 1793871000000
  },
  "da_chao": true,
@@ -848,9 +848,35 @@
   ]
  ],
  "dom_bao_sap": 1794272470.591764,
- "keo_mo": [],
+ "keo_mo": [
+  {
+   "huong": "SHORT",
+   "gia_vao": 2109.36,
+   "kl": 0.1,
+   "sl": 2134.36,
+   "sl_goc": 2134.36,
+   "tp1": 2084.36,
+   "tp2": 2059.36,
+   "da_tp1": false,
+   "con_lai": 1.0,
+   "lai_lo": 0.0,
+   "phi": 0.10546800000000002,
+   "dien_bien": [],
+   "coin": "ETHUSDT",
+   "vao_luc": "2026-11-10 10:45",
+   "khung_gio": "",
+   "bias_d1": "GIẢM",
+   "so_xac_nhan": 2,
+   "ethbtc": "GIẢM",
+   "canh_bao": "Quét thanh khoản trên kháng cự 2117.01 rồi đóng lại dưới: BẪY PHÁ VỠ LÊN (bull trap)",
+   "id": 9,
+   "t_vao": 1794282300000,
+   "t_kiem_tra": 1794282300000,
+   "da_vao": ""
+  }
+ ],
  "offset": 21296836,
  "hoc_tuan": "2026-11-08",
  "dom_bao_hut": 1793581268.677128,
- "id_tiep": 8
+ "id_tiep": 9
 }
