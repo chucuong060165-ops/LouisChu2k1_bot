@@ -5,8 +5,8 @@
  "da_bao_dung": false,
  "fake_hom_nay": 3,
  "da_bao": {
-  "ETHUSDT_nen": 1794313800000,
-  "BTCUSDT_nen": 1794313800000,
+  "ETHUSDT_nen": 1794314700000,
+  "BTCUSDT_nen": 1794314700000,
   "ETHUSDT_fake": 1794171600000,
   "BTCUSDT_fake": 1794272400000,
   "BTCUSDT_SHORT": 1794312000000,
@@ -849,7 +849,7 @@
    60.307
   ]
  ],
- "dom_bao_sap": 1794272470.591764,
+ "dom_bao_sap": 1794315673.04854,
  "keo_mo": [
   {
    "huong": "SHORT",
@@ -875,7 +875,7 @@
    "canh_bao": "Quét thanh khoản trên kháng cự 2117.01 rồi đóng lại dưới: BẪY PHÁ VỠ LÊN (bull trap)",
    "id": 9,
    "t_vao": 1794282300000,
-   "t_kiem_tra": 1794314700000,
+   "t_kiem_tra": 1794315600000,
    "da_vao": "",
    "da_bao_tp1": true
   }
