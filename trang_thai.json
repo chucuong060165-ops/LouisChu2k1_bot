@@ -5,8 +5,8 @@
  "da_bao_dung": false,
  "fake_hom_nay": 3,
  "da_bao": {
-  "ETHUSDT_nen": 1794374100000,
-  "BTCUSDT_nen": 1794374100000,
+  "ETHUSDT_nen": 1794375000000,
+  "BTCUSDT_nen": 1794375000000,
   "ETHUSDT_fake": 1794343500000,
   "BTCUSDT_fake": 1794349800000,
   "BTCUSDT_SHORT": 1794361500000,
@@ -48,10 +48,6 @@
   "1|2026-11-10 20:30|Core CPI m/m": "2026-11-10T19:30:54.426509+07:00"
  },
  "dom": [
-  [
-   "2026-11-03T18:01:14.870037+07:00",
-   59.868
-  ],
   [
    "2026-11-03T18:56:16.830882+07:00",
    59.872
@@ -847,6 +843,10 @@
   [
    "2026-11-11T11:50:28.186600+07:00",
    59.729
+  ],
+  [
+   "2026-11-11T12:46:31.069388+07:00",
+   59.75
   ]
  ],
  "dom_bao_sap": 1794358934.754419,
@@ -873,7 +873,7 @@
    "canh_bao": "Quét thanh khoản trên kháng cự 2060.00 rồi đóng lại dưới: BẪY PHÁ VỠ LÊN (bull trap) | Thủng 2060.00 nhưng volume chỉ 0.3×TB: phá vỡ yếu, dễ fake — chờ retest",
    "id": 11,
    "t_vao": 1794347100000,
-   "t_kiem_tra": 1794375000000,
+   "t_kiem_tra": 1794375900000,
    "da_vao": ""
   },
   {
@@ -898,7 +898,7 @@
    "canh_bao": "Quét thanh khoản trên kháng cự 73630.00 rồi đóng lại dưới: BẪY PHÁ VỠ LÊN (bull trap) | Thủng 73630.00 nhưng volume chỉ 0.6×TB: phá vỡ yếu, dễ fake — chờ retest",
    "id": 12,
    "t_vao": 1794362400000,
-   "t_kiem_tra": 1794375000000,
+   "t_kiem_tra": 1794375900000,
    "da_vao": ""
   }
  ],
