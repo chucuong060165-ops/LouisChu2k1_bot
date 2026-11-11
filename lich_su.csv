@@ -9,3 +9,5 @@
 8,bot,,BTCUSDT,SHORT,2026-11-10 00:45,74645.46,75245.46,74045.46,73445.46,0.0041,,GIẢM,,2,Phân kỳ giảm RSI H1: đỉnh giá cao hơn nhưng RSI yếu hơn — lực tăng đuối,ĐÓNG,dính SL,2026-11-10 05:46,-1.12,-2.77,,-1.12
 9,bot,,ETHUSDT,SHORT,2026-11-10 10:45,2109.36,2134.36,2084.36,2059.36,0.1,,GIẢM,GIẢM,2,Quét thanh khoản trên kháng cự 2117.01 rồi đóng lại dưới: BẪY PHÁ VỠ LÊN (bull trap),ĐÓNG,TP1 → TP2,2026-11-10 20:46,1.42,3.54,,1.42
 10,bot,,BTCUSDT,SHORT,2026-11-11 02:15,73361.29,73961.29,72761.29,72161.29,0.0041,,GIẢM,,2,,ĐÓNG,dính SL,2026-11-11 04:16,-1.12,-2.76,,-1.12
+11,bot,,ETHUSDT,SHORT,2026-11-11 04:45,2059.05,2084.05,2034.05,2009.05,0.1,,GIẢM,GIẢM,2,"Quét thanh khoản trên kháng cự 2060.00 rồi đóng lại dưới: BẪY PHÁ VỠ LÊN (bull trap) | Thủng 2060.00 nhưng volume chỉ 0.3×TB: phá vỡ yếu, dễ fake — chờ retest",ĐÓNG,dính SL,2026-11-11 22:46,-1.08,-2.71,,-1.08
+12,bot,,BTCUSDT,SHORT,2026-11-11 09:00,73605.01,74205.01,73005.01,72405.01,0.0041,,GIẢM,,2,"Quét thanh khoản trên kháng cự 73630.00 rồi đóng lại dưới: BẪY PHÁ VỠ LÊN (bull trap) | Thủng 73630.00 nhưng volume chỉ 0.6×TB: phá vỡ yếu, dễ fake — chờ retest",ĐÓNG,dính SL,2026-11-11 22:46,-1.12,-2.76,,-1.12
