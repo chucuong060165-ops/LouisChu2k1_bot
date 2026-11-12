@@ -5,8 +5,8 @@
  "da_bao_dung": false,
  "fake_hom_nay": 3,
  "da_bao": {
-  "ETHUSDT_nen": 1794491100000,
-  "BTCUSDT_nen": 1794491100000,
+  "ETHUSDT_nen": 1794492000000,
+  "BTCUSDT_nen": 1794492000000,
   "ETHUSDT_fake": 1794430800000,
   "BTCUSDT_fake": 1794415500000,
   "BTCUSDT_SHORT": 1794361500000,
@@ -34,7 +34,6 @@
  ],
  "lich_tin_luc": "2026-11-12T16:12:15.741947+07:00",
  "da_nhac": {
-  "1|2026-11-03 22:16|Congressional Elections": "2026-11-03T21:16:15.602261+07:00",
   "24|2026-11-06 20:30|Average Hourly Earnings m/m": "2026-11-05T20:30:57.809833+07:00",
   "24|2026-11-06 20:30|Non-Farm Employment Change": "2026-11-05T20:30:57.809833+07:00",
   "24|2026-11-06 20:30|Unemployment Rate": "2026-11-05T20:30:57.809833+07:00",
