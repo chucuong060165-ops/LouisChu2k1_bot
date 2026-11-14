@@ -5,8 +5,8 @@
  "da_bao_dung": false,
  "fake_hom_nay": 3,
  "da_bao": {
-  "ETHUSDT_nen": 1794664800000,
-  "BTCUSDT_nen": 1794664800000,
+  "ETHUSDT_nen": 1794665700000,
+  "BTCUSDT_nen": 1794665700000,
   "ETHUSDT_fake": 1794622500000,
   "BTCUSDT_fake": 1794622500000,
   "BTCUSDT_SHORT": 1794637800000,
@@ -849,36 +849,7 @@
   ]
  ],
  "dom_bao_sap": 1794661837.729618,
- "keo_mo": [
-  {
-   "huong": "SHORT",
-   "gia_vao": 67314.03,
-   "kl": 0.0041,
-   "sl": 67314.03,
-   "sl_goc": 67914.03,
-   "tp1": 66714.03,
-   "tp2": 66114.03,
-   "da_tp1": true,
-   "con_lai": 0.5,
-   "lai_lo": 1.2300000000000002,
-   "phi": 0.20637564225000002,
-   "dien_bien": [
-    "TP1"
-   ],
-   "coin": "BTCUSDT",
-   "vao_luc": "2026-11-14 13:45",
-   "khung_gio": "Cuối tuần (thanh khoản mỏng)",
-   "bias_d1": "GIẢM",
-   "so_xac_nhan": 2,
-   "ethbtc": "",
-   "canh_bao": "Đang trong khung giờ hay fake: Cuối tuần (thanh khoản mỏng) — chờ thêm 1 nến M15 xác nhận hoặc giảm nửa khối lượng",
-   "id": 14,
-   "t_vao": 1794638700000,
-   "t_kiem_tra": 1794665700000,
-   "da_vao": "",
-   "da_bao_tp1": true
-  }
- ],
+ "keo_mo": [],
  "offset": 21296837,
  "hoc_tuan": "2026-11-08",
  "dom_bao_hut": 1793581268.677128,
