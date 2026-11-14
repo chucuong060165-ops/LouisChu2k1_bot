@@ -5,8 +5,8 @@
  "da_bao_dung": false,
  "fake_hom_nay": 3,
  "da_bao": {
-  "ETHUSDT_nen": 1794640500000,
-  "BTCUSDT_nen": 1794640500000,
+  "ETHUSDT_nen": 1794641400000,
+  "BTCUSDT_nen": 1794641400000,
   "ETHUSDT_fake": 1794622500000,
   "BTCUSDT_fake": 1794622500000,
   "BTCUSDT_SHORT": 1794637800000,
@@ -50,10 +50,6 @@
   "1|2026-11-13 20:30|PPI m/m": "2026-11-13T19:30:52.915735+07:00"
  },
  "dom": [
-  [
-   "2026-11-06T19:48:17.625382+07:00",
-   59.835
-  ],
   [
    "2026-11-06T20:44:17.402209+07:00",
    59.165
@@ -849,6 +845,10 @@
   [
    "2026-11-14T13:50:30.182501+07:00",
    58.799
+  ],
+  [
+   "2026-11-14T14:46:14.930287+07:00",
+   58.812
   ]
  ],
  "dom_bao_sap": 1794618495.898713,
@@ -875,7 +875,7 @@
    "canh_bao": "Quét thanh khoản trên kháng cự 1895.95 rồi đóng lại dưới: BẪY PHÁ VỠ LÊN (bull trap) | Đang trong khung giờ hay fake: Cuối tuần (thanh khoản mỏng) — chờ thêm 1 nến M15 xác nhận hoặc giảm nửa khối lượng",
    "id": 13,
    "t_vao": 1794627900000,
-   "t_kiem_tra": 1794641400000,
+   "t_kiem_tra": 1794642300000,
    "da_vao": ""
   },
   {
@@ -900,7 +900,7 @@
    "canh_bao": "Đang trong khung giờ hay fake: Cuối tuần (thanh khoản mỏng) — chờ thêm 1 nến M15 xác nhận hoặc giảm nửa khối lượng",
    "id": 14,
    "t_vao": 1794638700000,
-   "t_kiem_tra": 1794641400000,
+   "t_kiem_tra": 1794642300000,
    "da_vao": ""
   }
  ],
