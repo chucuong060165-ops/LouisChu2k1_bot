@@ -1,16 +1,16 @@
 {
  "ngay": "2026-11-14",
  "thua": 0,
- "keo_da_bao": 0,
+ "keo_da_bao": 1,
  "da_bao_dung": false,
  "fake_hom_nay": 3,
  "da_bao": {
-  "ETHUSDT_nen": 1794626100000,
-  "BTCUSDT_nen": 1794626100000,
+  "ETHUSDT_nen": 1794627000000,
+  "BTCUSDT_nen": 1794627000000,
   "ETHUSDT_fake": 1794622500000,
   "BTCUSDT_fake": 1794622500000,
   "BTCUSDT_SHORT": 1794361500000,
-  "ETHUSDT_SHORT": 1794346200000,
+  "ETHUSDT_SHORT": 1794627000000,
   "ETHUSDT_LONG": 1793871000000
  },
  "da_chao": true,
@@ -852,9 +852,35 @@
   ]
  ],
  "dom_bao_sap": 1794618495.898713,
- "keo_mo": [],
+ "keo_mo": [
+  {
+   "huong": "SHORT",
+   "gia_vao": 1887.51,
+   "kl": 0.1,
+   "sl": 1912.51,
+   "sl_goc": 1912.51,
+   "tp1": 1862.51,
+   "tp2": 1837.51,
+   "da_tp1": false,
+   "con_lai": 1.0,
+   "lai_lo": 0.0,
+   "phi": 0.0943755,
+   "dien_bien": [],
+   "coin": "ETHUSDT",
+   "vao_luc": "2026-11-14 10:45",
+   "khung_gio": "Cuối tuần (thanh khoản mỏng)",
+   "bias_d1": "GIẢM",
+   "so_xac_nhan": 2,
+   "ethbtc": "GIẢM",
+   "canh_bao": "Quét thanh khoản trên kháng cự 1895.95 rồi đóng lại dưới: BẪY PHÁ VỠ LÊN (bull trap) | Đang trong khung giờ hay fake: Cuối tuần (thanh khoản mỏng) — chờ thêm 1 nến M15 xác nhận hoặc giảm nửa khối lượng",
+   "id": 13,
+   "t_vao": 1794627900000,
+   "t_kiem_tra": 1794627900000,
+   "da_vao": ""
+  }
+ ],
  "offset": 21296836,
  "hoc_tuan": "2026-11-08",
  "dom_bao_hut": 1793581268.677128,
- "id_tiep": 12
+ "id_tiep": 13
 }
