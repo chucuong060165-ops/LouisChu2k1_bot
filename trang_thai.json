@@ -16,23 +16,23 @@
  "da_chao": true,
  "lich_tin": [
   [
-   "2026-11-10 20:30",
-   "Core CPI m/m"
+   "2026-11-17 00:00",
+   "Fed Chairman Warsh Speaks"
   ],
   [
-   "2026-11-10 20:30",
-   "CPI m/m"
+   "2026-11-17 20:30",
+   "Core Retail Sales m/m"
   ],
   [
-   "2026-11-13 20:30",
-   "Core PPI m/m"
+   "2026-11-17 20:30",
+   "Retail Sales m/m"
   ],
   [
-   "2026-11-13 20:30",
-   "PPI m/m"
+   "2026-11-19 02:00",
+   "FOMC Meeting Minutes"
   ]
  ],
- "lich_tin_luc": "2026-11-15T10:26:15.619451+07:00",
+ "lich_tin_luc": "2026-11-15T16:28:13.602525+07:00",
  "da_nhac": {
   "1|2026-11-06 20:30|Average Hourly Earnings m/m": "2026-11-06T19:30:56.026500+07:00",
   "1|2026-11-06 20:30|Non-Farm Employment Change": "2026-11-06T19:30:56.026500+07:00",
