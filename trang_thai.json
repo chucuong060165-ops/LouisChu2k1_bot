@@ -5,8 +5,8 @@
  "da_bao_dung": true,
  "fake_hom_nay": 2,
  "da_bao": {
-  "ETHUSDT_nen": 1794819600000,
-  "BTCUSDT_nen": 1794819600000,
+  "ETHUSDT_nen": 1794820500000,
+  "BTCUSDT_nen": 1794820500000,
   "ETHUSDT_fake": 1794761100000,
   "BTCUSDT_fake": 1794769200000,
   "BTCUSDT_SHORT": 1794771900000,
@@ -32,7 +32,7 @@
    "FOMC Meeting Minutes"
   ]
  ],
- "lich_tin_luc": "2026-11-16T10:30:51.788743+07:00",
+ "lich_tin_luc": "2026-11-16T16:31:09.241739+07:00",
  "da_nhac": {
   "24|2026-11-10 20:30|CPI m/m": "2026-11-09T20:30:54.856370+07:00",
   "24|2026-11-10 20:30|Core CPI m/m": "2026-11-09T20:30:54.856370+07:00",
