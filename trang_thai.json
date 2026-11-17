@@ -5,8 +5,8 @@
  "da_bao_dung": false,
  "fake_hom_nay": 3,
  "da_bao": {
-  "ETHUSDT_nen": 1794906000000,
-  "BTCUSDT_nen": 1794906000000,
+  "ETHUSDT_nen": 1794906900000,
+  "BTCUSDT_nen": 1794906900000,
   "ETHUSDT_fake": 1794761100000,
   "BTCUSDT_fake": 1794881700000,
   "BTCUSDT_SHORT": 1794771900000,
@@ -855,15 +855,17 @@
    "huong": "SHORT",
    "gia_vao": 1834.15,
    "kl": 0.1,
-   "sl": 1859.15,
+   "sl": 1834.15,
    "sl_goc": 1859.15,
    "tp1": 1809.15,
    "tp2": 1784.15,
-   "da_tp1": false,
-   "con_lai": 1.0,
-   "lai_lo": 0.0,
-   "phi": 0.09170750000000001,
-   "dien_bien": [],
+   "da_tp1": true,
+   "con_lai": 0.5,
+   "lai_lo": 1.25,
+   "phi": 0.13693625,
+   "dien_bien": [
+    "TP1"
+   ],
    "coin": "ETHUSDT",
    "vao_luc": "2026-11-17 13:00",
    "khung_gio": "",
@@ -873,8 +875,9 @@
    "canh_bao": "",
    "id": 18,
    "t_vao": 1794895200000,
-   "t_kiem_tra": 1794906900000,
-   "da_vao": ""
+   "t_kiem_tra": 1794907800000,
+   "da_vao": "",
+   "da_bao_tp1": true
   }
  ],
  "offset": 21296837,
