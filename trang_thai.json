@@ -1,15 +1,15 @@
 {
  "ngay": "2026-11-19",
  "thua": 0,
- "keo_da_bao": 1,
+ "keo_da_bao": 2,
  "da_bao_dung": false,
  "fake_hom_nay": 3,
  "da_bao": {
-  "ETHUSDT_nen": 1795087800000,
-  "BTCUSDT_nen": 1795087800000,
+  "ETHUSDT_nen": 1795088700000,
+  "BTCUSDT_nen": 1795088700000,
   "ETHUSDT_fake": 1795041900000,
   "BTCUSDT_fake": 1795022100000,
-  "BTCUSDT_SHORT": 1795023000000,
+  "BTCUSDT_SHORT": 1795088700000,
   "ETHUSDT_SHORT": 1795077000000,
   "ETHUSDT_LONG": 1793871000000
  },
@@ -875,12 +875,37 @@
    "canh_bao": "Quét thanh khoản trên kháng cự 1801.19 rồi đóng lại dưới: BẪY PHÁ VỠ LÊN (bull trap) | Thủng 1801.19 nhưng volume chỉ 0.6×TB: phá vỡ yếu, dễ fake — chờ retest | Đang trong khung giờ hay fake: Mở phiên Âu (hay phá vỡ giả) — chờ thêm 1 nến M15 xác nhận hoặc giảm nửa khối lượng",
    "id": 21,
    "t_vao": 1795077900000,
-   "t_kiem_tra": 1795088700000,
+   "t_kiem_tra": 1795089600000,
+   "da_vao": ""
+  },
+  {
+   "huong": "SHORT",
+   "gia_vao": 63947.59,
+   "kl": 0.0041,
+   "sl": 64547.59,
+   "sl_goc": 64547.59,
+   "tp1": 63347.59,
+   "tp2": 62747.59,
+   "da_tp1": false,
+   "con_lai": 1.0,
+   "lai_lo": 0.0,
+   "phi": 0.13109255949999998,
+   "dien_bien": [],
+   "coin": "BTCUSDT",
+   "vao_luc": "2026-11-19 19:00",
+   "khung_gio": "",
+   "bias_d1": "GIẢM",
+   "so_xac_nhan": 2,
+   "ethbtc": "",
+   "canh_bao": "Râu trên dài: bên bán từ chối giá, đừng long đuổi",
+   "id": 22,
+   "t_vao": 1795089600000,
+   "t_kiem_tra": 1795089600000,
    "da_vao": ""
   }
  ],
  "offset": 21296837,
  "hoc_tuan": "2026-11-15",
  "dom_bao_hut": 1793581268.677128,
- "id_tiep": 21
+ "id_tiep": 22
 }
