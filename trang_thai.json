@@ -1,15 +1,15 @@
 {
  "ngay": "2026-11-20",
  "thua": 0,
- "keo_da_bao": 2,
+ "keo_da_bao": 3,
  "da_bao_dung": false,
  "fake_hom_nay": 3,
  "da_bao": {
-  "ETHUSDT_nen": 1795145400000,
-  "BTCUSDT_nen": 1795145400000,
+  "ETHUSDT_nen": 1795146300000,
+  "BTCUSDT_nen": 1795146300000,
   "ETHUSDT_fake": 1795122900000,
   "BTCUSDT_fake": 1795118400000,
-  "BTCUSDT_SHORT": 1795129200000,
+  "BTCUSDT_SHORT": 1795146300000,
   "ETHUSDT_SHORT": 1795077000000,
   "ETHUSDT_LONG": 1793871000000
  },
@@ -849,10 +849,36 @@
    58.077
   ]
  ],
- "dom_bao_sap": 1795057581.732851,
- "keo_mo": [],
+ "dom_bao_sap": 1795147269.8742,
+ "keo_mo": [
+  {
+   "huong": "SHORT",
+   "gia_vao": 62156.32,
+   "kl": 0.0041,
+   "sl": 62756.32,
+   "sl_goc": 62756.32,
+   "tp1": 61556.32,
+   "tp2": 60956.32,
+   "da_tp1": false,
+   "con_lai": 1.0,
+   "lai_lo": 0.0,
+   "phi": 0.12742045600000002,
+   "dien_bien": [],
+   "coin": "BTCUSDT",
+   "vao_luc": "2026-11-20 11:00",
+   "khung_gio": "",
+   "bias_d1": "GIẢM",
+   "so_xac_nhan": 2,
+   "ethbtc": "",
+   "canh_bao": "Râu trên dài: bên bán từ chối giá, đừng long đuổi | Quét thanh khoản trên kháng cự 62184.26 rồi đóng lại dưới: BẪY PHÁ VỠ LÊN (bull trap)",
+   "id": 25,
+   "t_vao": 1795147200000,
+   "t_kiem_tra": 1795147200000,
+   "da_vao": ""
+  }
+ ],
  "offset": 21296837,
  "hoc_tuan": "2026-11-15",
  "dom_bao_hut": 1793581268.677128,
- "id_tiep": 24
+ "id_tiep": 25
 }
