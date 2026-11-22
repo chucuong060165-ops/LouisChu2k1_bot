@@ -5,8 +5,8 @@
  "da_bao_dung": false,
  "fake_hom_nay": 2,
  "da_bao": {
-  "ETHUSDT_nen": 1795320000000,
-  "BTCUSDT_nen": 1795320000000,
+  "ETHUSDT_nen": 1795320900000,
+  "BTCUSDT_nen": 1795320900000,
   "ETHUSDT_fake": 1795319100000,
   "BTCUSDT_fake": 1795316400000,
   "BTCUSDT_SHORT": 1795248900000,
@@ -46,10 +46,6 @@
   "1|2026-11-19 02:00|FOMC Meeting Minutes": "2026-11-19T01:01:10.753817+07:00"
  },
  "dom": [
-  [
-   "2026-11-14T16:38:16.899757+07:00",
-   58.78
-  ],
   [
    "2026-11-14T17:34:15.460541+07:00",
    59.493
@@ -845,6 +841,10 @@
   [
    "2026-11-22T10:34:27.316553+07:00",
    57.72
+  ],
+  [
+   "2026-11-22T11:30:55.940208+07:00",
+   57.708
   ]
  ],
  "dom_bao_sap": 1795320379.892904,
@@ -873,7 +873,7 @@
    "canh_bao": "Đang trong khung giờ hay fake: Cuối tuần (thanh khoản mỏng) — chờ thêm 1 nến M15 xác nhận hoặc giảm nửa khối lượng",
    "id": 27,
    "t_vao": 1795303800000,
-   "t_kiem_tra": 1795320900000,
+   "t_kiem_tra": 1795321800000,
    "da_vao": "",
    "da_bao_tp1": true
   }
