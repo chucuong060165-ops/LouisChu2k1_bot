@@ -3,11 +3,11 @@
  "thua": 0,
  "keo_da_bao": 1,
  "da_bao_dung": false,
- "fake_hom_nay": 2,
+ "fake_hom_nay": 3,
  "da_bao": {
-  "ETHUSDT_nen": 1795465800000,
-  "BTCUSDT_nen": 1795465800000,
-  "ETHUSDT_fake": 1795452300000,
+  "ETHUSDT_nen": 1795466700000,
+  "BTCUSDT_nen": 1795466700000,
+  "ETHUSDT_fake": 1795466700000,
   "BTCUSDT_fake": 1795452300000,
   "BTCUSDT_SHORT": 1795457700000,
   "ETHUSDT_SHORT": 1795338000000,
@@ -863,7 +863,7 @@
    "canh_bao": "Quét đỉnh ngày hôm trước 61669.99 rồi đóng lại dưới: BẪY PHÁ VỠ LÊN (bull trap)",
    "id": 31,
    "t_vao": 1795458600000,
-   "t_kiem_tra": 1795466700000,
+   "t_kiem_tra": 1795467600000,
    "da_vao": "",
    "da_bao_tp1": true
   }
