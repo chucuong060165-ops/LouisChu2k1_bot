@@ -5,8 +5,8 @@
  "da_bao_dung": false,
  "fake_hom_nay": 3,
  "da_bao": {
-  "ETHUSDT_nen": 1795525200000,
-  "BTCUSDT_nen": 1795525200000,
+  "ETHUSDT_nen": 1795526100000,
+  "BTCUSDT_nen": 1795526100000,
   "ETHUSDT_fake": 1795466700000,
   "BTCUSDT_fake": 1795452300000,
   "BTCUSDT_SHORT": 1795476600000,
@@ -33,7 +33,9 @@
   "1|2026-11-17 20:30|Core Retail Sales m/m": "2026-11-17T19:30:55.758859+07:00",
   "1|2026-11-17 20:30|Retail Sales m/m": "2026-11-17T19:30:55.758859+07:00",
   "24|2026-11-19 02:00|FOMC Meeting Minutes": "2026-11-18T02:01:23.588406+07:00",
-  "1|2026-11-19 02:00|FOMC Meeting Minutes": "2026-11-19T01:01:10.753817+07:00"
+  "1|2026-11-19 02:00|FOMC Meeting Minutes": "2026-11-19T01:01:10.753817+07:00",
+  "24|2026-11-25 20:30|Core PCE Price Index m/m": "2026-11-24T20:30:57.975766+07:00",
+  "24|2026-11-25 20:30|Prelim GDP q/q": "2026-11-24T20:30:57.975766+07:00"
  },
  "dom": [
   [
@@ -861,7 +863,7 @@
    "canh_bao": "Quét thanh khoản trên kháng cự 1692.54 rồi đóng lại dưới: BẪY PHÁ VỠ LÊN (bull trap)",
    "id": 33,
    "t_vao": 1795488300000,
-   "t_kiem_tra": 1795526100000,
+   "t_kiem_tra": 1795527000000,
    "da_vao": ""
   }
  ],
